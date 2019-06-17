@@ -22,7 +22,7 @@ def bonus
 
   #bonus 
   
-  epic_tragedy[:montagu][:patriarch][]
+  epic_tragedy[:montagu][:hero][:status] = "dead"
 
   
 
